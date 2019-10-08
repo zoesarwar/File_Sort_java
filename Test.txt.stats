@@ -1,0 +1,31 @@
+The length of the longest line is:                                  7              
+The average line length is:                                         2.230769230769231
+The number of tokens in this file is:                               26             
+The number of unique space-delineated tokes(case-sensitive) is:     12             
+The number of unique space-delineated tokes(case-insensitive) is:   12             
+The most frequently occurring token(case-insensitive) occurs 6 times.
+There are multiple tokens(case-sensitive) with the same occurrence: 
+1
+hi
+The ten most frequent tokens(case-insensitive) and their counts are: 
+Token: 1               Count: 6    
+Token: hi              Count: 6    
+Token: 12              Count: 3    
+Token: hello           Count: 2    
+Token: 8               Count: 2    
+Token: 123             Count: 1    
+Token: 1234            Count: 1    
+Token: 12345           Count: 1    
+Token: 1234567         Count: 1    
+Token: 5               Count: 1    
+The ten least frequent tokens(case-insensitive) and their counts are: 
+Token: 6               Count: 1    
+Token: 2               Count: 1    
+Token: 5               Count: 1    
+Token: 1234567         Count: 1    
+Token: 12345           Count: 1    
+Token: 1234            Count: 1    
+Token: 123             Count: 1    
+Token: 8               Count: 2    
+Token: hello           Count: 2    
+Token: 12              Count: 3    

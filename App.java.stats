@@ -1,0 +1,29 @@
+The length of the longest line is:                                  155            
+The average line length is:                                         25.76775956284153
+The number of tokens in this file is:                               1256           
+The number of unique space-delineated tokes(case-sensitive) is:     283            
+The number of unique space-delineated tokes(case-insensitive) is:   281            
+The most frequently occurring token(case-insensitive) occurs 148 times.
+The most frequent token(case-sensitive) in this file is: =
+The ten most frequent tokens(case-insensitive) and their counts are: 
+Token: =               Count: 148  
+Token: }               Count: 68   
+Token: 0;              Count: 58   
+Token: {               Count: 49   
+Token:                 Count: 37   
+Token: int             Count: 36   
+Token: <               Count: 25   
+Token: for             Count: 22   
+Token: (int            Count: 22   
+Token: i               Count: 22   
+The ten least frequent tokens(case-insensitive) and their counts are: 
+Token: files.write(location,towrite,charset.defaultcharset()); Count: 1    
+Token: )               Count: 1    
+Token: location,       Count: 1    
+Token: writetofile(    Count: 1    
+Token: tokens.remove(smallestnumindex); Count: 1    
+Token: tokencount.remove(smallestnumindex); Count: 1    
+Token: tokencount.get(smallestnumindex))); Count: 1    
+Token: tokens.get(smallestnumindex), Count: 1    
+Token: k--;            Count: 1    
+Token: smallestnum++;  Count: 1    

@@ -1,0 +1,29 @@
+The length of the longest line is:                                  42             
+The average line length is:                                         11.1           
+The number of tokens in this file is:                               38             
+The number of unique space-delineated tokes(case-sensitive) is:     29             
+The number of unique space-delineated tokes(case-insensitive) is:   28             
+The most frequently occurring token(case-insensitive) occurs 3 times.
+The most frequent token(case-sensitive) in this file is: 
+The ten most frequent tokens(case-insensitive) and their counts are: 
+Token:                 Count: 3    
+Token: import          Count: 2    
+Token: /**             Count: 2    
+Token: *               Count: 2    
+Token: test            Count: 2    
+Token: */              Count: 2    
+Token: public          Count: 2    
+Token: {               Count: 2    
+Token: }               Count: 2    
+Token: package         Count: 1    
+The ten least frequent tokens(case-insensitive) and their counts are: 
+Token: );              Count: 1    
+Token: true            Count: 1    
+Token: asserttrue(     Count: 1    
+Token: shouldanswerwithtrue() Count: 1    
+Token: void            Count: 1    
+Token: @test           Count: 1    
+Token: :-)             Count: 1    
+Token: rigorous        Count: 1    
+Token: apptest         Count: 1    
+Token: class           Count: 1    
